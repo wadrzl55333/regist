@@ -4,3 +4,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/wadrzl55333/weixin.git
 git push -u origin master
+
+
+
+git remote rm origin
